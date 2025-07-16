@@ -60,7 +60,7 @@ cd ai-engine && python3 main.py
 ### Backend Architecture (Spring Boot)
 - **Layered Architecture**: Controller → Service → Repository → Entity
 - **Base Package**: `uk.asoftake`
-- **Module Structure**: Each business module contains controller, service, dao, entity, and vo packages
+- **Module Structure**: Each business module contains controller, service, Repository, entity, and vo packages
 - **Security**: Spring Security with session-based authentication, custom filters and handlers
 - **Database**: JPA with MySQL, Redis for session storage
 - **ID Generation**: Custom Snowflake ID generator
