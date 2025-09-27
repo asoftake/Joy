@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Joy is a comprehensive enterprise management system developed by ASOFTAKE CO., LTD. (UK), built with Spring Boot 3.5.3, Java 24, and Vue 3. It includes core features such as user management, role-based access control, department management, task scheduling, and notification management, and integrates an advanced AI-powered code generation assistant with RAG capabilities.
+Joy is a comprehensive enterprise management system developed by ASOFTAKE CO., LTD. (UK), built with Spring Boot 3.5.6, Java 25, and Vue 3. It includes core features such as user management, role-based access control, department management, task scheduling, and notification management, and integrates an advanced AI-powered code generation assistant with RAG capabilities.
 
 
 ## Development Commands
